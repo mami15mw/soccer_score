@@ -1,0 +1,31 @@
+#name_1 {
+  font-size: 4rem;
+  color: black;
+}
+#name_2 {
+  font-size: 4rem;
+  color: black;
+}
+
+#button_1 {
+  font-size: 4rem;
+  color: black;
+}
+
+#button_2 {
+  font-size: 4rem;
+  color: black;
+}
+
+.img_1 {
+  background-image: url(img/pexels-pixabay-46798.jpg);
+  background-position: center;
+  background-size: auto;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100vh;
+}
